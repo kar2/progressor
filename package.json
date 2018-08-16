@@ -2,17 +2,18 @@
   "name": "progressor",
   "main": "./lib/progressor",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Atom package that allows for seamless metrics and progress visualization while coding.",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "progressor:toggle"
   },
-  "repository": "https://github.com/atom/progressor",
+  "repository": "https://github.com/kar2/progressor",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "chart.js": "^2.7.2",
     "moment": "^2.22.2"
   }
 }
