@@ -1,7 +1,7 @@
 {
   "name": "progressor",
   "main": "./lib/progressor",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Atom package that allows for seamless metrics and progress visualization while coding.",
   "keywords": [],
   "activationCommands": {
