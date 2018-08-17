@@ -25,7 +25,7 @@ apm install progressor
 
 ### How to Use
 
-Use the default keymap ctrl-alt-o to toggle progresss view from when you need to code to when you want to see progress.
+Use the default keymap ctrl-alt-o to toggle progress view from when you need to code to when you need to see progress.
 
 ## Contributing
 
