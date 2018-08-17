@@ -10,9 +10,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-* Node.js(https://nodejs.org/en/)
-* moment.js(https://momentjs.com/)
-* Chart.js(https://www.chartjs.org/)
+* [Node.js](https://nodejs.org/en/)
+* [moment.js](https://momentjs.com/)
+* [Chart.js](https://www.chartjs.org/)
 
 
 ### Installing
