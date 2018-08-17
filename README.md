@@ -1,3 +1,4 @@
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 # progressor
 
 This package allows for efficient progress visualization and metrics access while coding. With simple keybinds, switching between typing and tracking progress is straightforward and fast.
